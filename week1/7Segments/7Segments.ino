@@ -1,4 +1,4 @@
-const int interval = 100;
+const int interval = 1000;
 
 const int A = 4;
 const int B = 5;
